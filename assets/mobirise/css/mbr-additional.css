@@ -1075,7 +1075,7 @@ a {
 .cid-s83jeHRpLs {
   padding-top: 2rem;
   padding-bottom: 1rem;
-  background-color: #ffffff;
+  background-color: #fafafa;
 }
 .cid-s83jeHRpLs .card:not(:nth-last-child(1)) {
   margin-bottom: 2rem;
@@ -1151,6 +1151,9 @@ a {
     padding: 2rem;
   }
 }
+.cid-s83xGmK0vu .mbr-section-title {
+  text-align: right;
+}
 .cid-s83yOOamrb {
   padding-top: 1rem;
   padding-bottom: 0rem;
@@ -1167,6 +1170,9 @@ a {
   .cid-s83yOOamrb .text-wrapper {
     padding: 2rem;
   }
+}
+.cid-s83yOOamrb .mbr-section-title {
+  text-align: right;
 }
 .cid-s83yC4wqkj {
   padding-top: 1rem;
@@ -1185,6 +1191,12 @@ a {
     padding: 2rem;
   }
 }
+.cid-s83yC4wqkj .mbr-section-subtitle {
+  text-align: left;
+}
+.cid-s83yC4wqkj .mbr-section-title {
+  text-align: right;
+}
 .cid-s83JPcutfV {
   padding-top: 1rem;
   padding-bottom: 0rem;
@@ -1201,6 +1213,9 @@ a {
   .cid-s83JPcutfV .text-wrapper {
     padding: 2rem;
   }
+}
+.cid-s83JPcutfV .mbr-section-title {
+  text-align: right;
 }
 .cid-s83K5sxOmn {
   padding-top: 1rem;
